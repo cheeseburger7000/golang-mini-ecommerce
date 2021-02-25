@@ -14,3 +14,4 @@ You can go through [this](https://medium.com/wesionary-team/building-mini-e-comm
 - [gorm](https://gorm.io/docs/) ORM libary for go.
 - [gorm.Model](https://gorm.io/docs/models.html#gorm-Model)
 - go struct tag
+- `f := "apple"` is equal to `var f string = "apple"`
